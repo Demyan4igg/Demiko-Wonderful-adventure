@@ -1,2 +1,4 @@
 # Demiko-Wonderful-adventure
-Repository of modpack DEMIKO
+Yea, repository for pictures
+Maybe updates and etc
+=)
